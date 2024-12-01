@@ -7,11 +7,11 @@
 # Getting started
 - Clone the repository
 ```
-git clone  <git lab template url> <project_name>
+git clone  <https://github.com/mburnwal88/quiz-app.git>
 ```
 - Install dependencies
 ```
-cd <QUIZ_APP>
+cd quiz_app
 npm install
 ```
 - Build and run the project
@@ -25,6 +25,8 @@ npx nodemon src/server.ts
   Quiz Endpoint : http://localhost:5000/api/quiz
 
   Question  Endpoint : http://localhost:5000/api/question
+
+  Result  Endpoint : http://localhost:5000/api/result
 
 
 
